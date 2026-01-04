@@ -1,7 +1,7 @@
 # Products System - Backend
 
-This repository contains the backend service for a products system prototype, which is the basis of other backend
-service called "juridic system".
+This repository contains the backend service for a Product Management prototype, designed as the architectural
+foundation for the Legal System platform.
 
 ## 🛠 Tech Stack
 
